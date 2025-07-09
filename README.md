@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Hadid  
+A passionate full stack developer from Pakistan 🇵🇰
 
-<!--
-**Muhammad-Hadid/Muhammad-Hadid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with Javascript / Node JS
+- 🌱 I’m currently learning Next.js  
+- 💬 Ask me about HTML, CSS, JavaScript, Laravel, Node JS  
+- 📫 How to reach me: hadeed.se@gamil.com 
+- 😄 Fun fact: I enjoy learning new frameworks  
 
-Here are some ideas to get you started:
+# 🛠️ Languages and Tools:
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,laravel,mysql,git,github" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hadidshow_icons=true&theme=radical)
+
+## 🔥 Streaks:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadidsatti011&theme=radical)](https://git.io/streak-stats)
