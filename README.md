@@ -7,9 +7,9 @@
 </p>
 
 <p>
-  🔭 I’m currently working with JavaScript / Node JS <br>
-  🌱 I’m currently learning Next.js <br>
-  💬 Ask me about HTML, CSS, JavaScript, Laravel, Node JS <br>
+  🔭 I’m currently working with <b>JavaScript, Node.js, Next.js</b> <br>
+  🌱 I’m currently learning <b>NestJS</b> <br>
+  💬 Ask me about <b>Web Development, AI / ML, Android Development</b> <br>
   📫 How to reach me: <a href="mailto:hadeed.se@gmail.com">hadeed.se@gmail.com</a> <br>
   😄 Fun fact: I enjoy learning new frameworks
 </p>
@@ -19,7 +19,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bootstrap,react,php,laravel,nodejs,express,c,cpp,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,tailwind,python,java,php,laravel,androidstudio" />
 </p>
 
 ---
